@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TWipaxpLEnzX01MedmIyiR4Wrpq72X4tqwFDKm5GYG4=",
+  "Source": "TestBackend",
+  "BasePath": "_content/TestBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
